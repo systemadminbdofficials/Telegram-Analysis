@@ -29,11 +29,11 @@ Thanks Please introduce our channel to other friends
 
 def printlogo():
 
-    pc.printout(" _                _    _  _   _        \n", pc.YELLOW)     
-    pc.printout("| |__   __ _  ___| | _| || | | |_  __  \n", pc.YELLOW)
-    pc.printout("| '_ \ / _` |/ __| |/ / || |_| \ \/ /  \n", pc.YELLOW)
-    pc.printout("| | | | (_| | (__|   <|__   _| |>  <   \n", pc.YELLOW)
-    pc.printout("|_| |_|\__,_|\___|_|\_\  |_| |_/_/\_\  \n", pc.YELLOW)
+    print ("wellcome to systemadminbd official")         
+    print ("Bangladeshi Cyber Defender")         
+    print ("Telegram : https://t.me/systemadminbd")
+    print ("website: https://systemadminbd.com")
+    print ("Bot : https://t.me/systemadminbdbot")
                                      
     print('\n')
     pc.printout("Version 1.0 - Developed by systemadminbd | - 2023\n\n", pc.YELLOW)
